@@ -1,0 +1,9 @@
+{
+  "name": "sample_ajax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "php -S localhost:8000 -t ./"
+  },
+  "license": "MIT"
+}
